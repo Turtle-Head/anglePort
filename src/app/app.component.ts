@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
   <h1>between the quotes</h1>
   </div>
   <br>
-  <image src="https://cdn.pixabay.com/photo/2023/10/23/14/37/bee-8336245_960_720.png" height="50% width="50%">
+  
   <div>
   <br>
   <p>let's see how fast it refreshes the view.</p>
