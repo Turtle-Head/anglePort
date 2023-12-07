@@ -14,6 +14,7 @@ import { Component } from '@angular/core';
   <p>let's see how fast it refreshes the view.</p>
   <br>
   <h2>commit and push is how to update view</h2>
+  <img src="https://cdn.pixabay.com/photo/2023/10/23/14/37/bee-8336245_960_720.png" width="50% height="50%">
   </div>
   <br>
 <h3>lots of things could break if not careful</h3>
