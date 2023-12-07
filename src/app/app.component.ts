@@ -10,7 +10,9 @@ import { Component } from '@angular/core';
   <br>
   <div>
   <br>
-  <p>let's see how fast it refreshes the view.</p></div>`,
+  <p>let's see how fast it refreshes the view.</p>
+  <h2>need to commit and push to see changes</h2>
+  </div>`,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
