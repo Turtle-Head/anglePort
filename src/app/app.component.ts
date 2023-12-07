@@ -12,8 +12,9 @@ import { Component } from '@angular/core';
   <br>
   <p>let's see how fast it refreshes the view.</p>
   <br>
-  <h2>need to commit and push to see changes</h2>
+  <h2>commit and push is how to update view</h2>
   </div>
+  <br>
 <h3>lots of things could break if not careful</h3>
   `,
   styleUrls: ['./app.component.css'],
