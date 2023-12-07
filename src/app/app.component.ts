@@ -11,8 +11,11 @@ import { Component } from '@angular/core';
   <div>
   <br>
   <p>let's see how fast it refreshes the view.</p>
+  <br>
   <h2>need to commit and push to see changes</h2>
-  </div>`,
+  </div>
+<h3>lots of things could break if not careful</h3>
+  `,
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
