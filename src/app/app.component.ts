@@ -4,7 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   standalone: true,
   imports: [],
-  template: `<div>
+  template: `
+  <div>
   <h1>between the quotes</h1>
   </div>
   <br>
@@ -13,7 +14,7 @@ import { Component } from '@angular/core';
   <br>
   <p>let's see how fast it refreshes the view.</p>
   <br>
-  <h2>commit and push is how to update view</h2>
+  <h2>view updates after commit and push</h2>
  
   </div>
   <br>
