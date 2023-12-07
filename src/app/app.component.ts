@@ -14,8 +14,8 @@ import { Component } from '@angular/core';
   <br>
   <p>let's see how fast it refreshes the view.</p>
   <br>
-  <h2>view updates after commit and push</h2>
- 
+  <h2>view updates slower than Vue</h2>
+ <img src="https://cdn.pixabay.com/photo/2023/10/23/14/37/bee-8336245_960_720.png" height="15%" width="15%">
   </div>
   <br>
 <h3>lots of things could break if not careful</h3>
