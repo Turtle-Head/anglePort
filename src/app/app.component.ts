@@ -6,15 +6,15 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
   <div>
-  <h1>between the quotes</h1>
+  <h1>Content goes between the quotes</h1>
   </div>
   <br>
   
   <div>
   <br>
-  <p>let's see how fast it refreshes the view.</p>
+  <p>Did this refresh the page.</p>
   <br>
-  <h2>view updates slower than Vue</h2>
+  <h2>view updates upon save than Vue</h2>
  <img src="https://cdn.pixabay.com/photo/2023/10/23/14/37/bee-8336245_960_720.png" height="50%" width="auto">
   </div>
   <br>
